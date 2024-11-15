@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.bcr.movil",
+    "sha256_cert_fingerprints":
+    ["78:00:CD:D4:D3:31:70:27:12:25:BC:B1:55:E6:E2:3A:D7:55:49:C1:D0:8B:CC:72:D8:7E:8F:7C:F1:66:C3:D2"]
+  }
+}]
